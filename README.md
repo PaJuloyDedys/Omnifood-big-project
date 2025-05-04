@@ -24,5 +24,5 @@ Omnifood is a modern, responsive landing page for a fictional AI-powered food de
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](omnifood-pjd.netlify.app) 
+🔗 [omnifood-pjd.netlify.app](https://omnifood-pjd.netlify.app)
 
